@@ -1,0 +1,4 @@
+In Week 2, I learned the Software QA in different developement models,suan as Waterfall, V-Models, which mainly
+about the function and procedure of the QA. During the QA process, we need to make a comprehensive plan of the
+QA, and use various methods to accomplish the QA goal, such as testing, which contains Junit, Coverage or Usa-
+ge Test, to mack sure the software is strong, without bugs.

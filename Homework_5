@@ -17,4 +17,6 @@ specifications, or to check for certain properties. These techniques are typical
 product-independent framework of rules that serve as the basis of formal inferences or analyses. 
 The most common type is a set of axioms used in correctness verification.
 model checking in particular
-The model checker is a software that runs an algorithm to check the validity of the proposition. If it is checked to be true, a proof is said to be produced. Otherwise, a counterexample is given, much like a failed test case that can be analyzed further for defect fixing.
+The model checker is a software that runs an algorithm to check the validity of the proposition. 
+If it is checked to be true, a proof is said to be produced. Otherwise, a counterexample is given,
+much like a failed test case that can be analyzed further for defect fixing.

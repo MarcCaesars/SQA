@@ -1,0 +1,8 @@
+Pre-Condition: 
+'Dictionary Management System'(short as 'Dic' afer) is a system designed and developed by me during my  internship. 
+Basically, it's B/S model web appliction, and build on SSH framework. It is developed to manage the segememt dictionary file.
+This QA document will be based on the Dic.
+
+QA:
+As we know, the quality of a software system is very significant to a application, so it's important for developers to make 
+the QA plan well before deploy or publish the application.

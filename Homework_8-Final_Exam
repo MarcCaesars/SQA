@@ -1,8 +1,35 @@
 Pre-Condition: 
-'Dictionary Management System'(short as 'Dic' afer) is a system designed and developed by me during my  internship. 
-Basically, it's B/S model web appliction, and build on SSH framework. It is developed to manage the segememt dictionary file.
-This QA document will be based on the Dic.
+'Dictionary Management System'(short as 'Dic' after) is a system designed and developed by me during my internship. 
+Basically, it's a B/S model web appliction, and build on SSH framework. It is developed to manage the segememt dictionary 
+file. This QA document will be based on the Dic.
 
 QA:
 As we know, the quality of a software system is very significant to a application, so it's important for developers to make 
-the QA plan well before deploy or publish the application.
+the QA plan well before deploy or publish the application.I choose Extreme-Programming as main method to develope this 
+application, because this system can be developed to the alpha version very soon.
+
+Reporter - Me
+
+Report to - Manager
+
+Requirement Defination - 
+  After requirement, we should have Requirement Review to make sure most of the requirements are 
+  satisfied.
+  Make sure that every item of requirements is explicit and can be accomplished.
+  Make sure that requirements document covers all the requirements of the stakeholder.
+
+Design - 
+  In this process, developer(I) should make the whole frame of the system clear.
+  The frame shoule be B/S model, and use Struts + Spring + HIbernate.
+  
+Start to Alpha version - 
+  In this process, the application should provide basic "query, edit, add" function to users.
+  Make sure every function is correctly accomplished and the result of the function is acurate.
+
+Beta Version - 
+  The system should provide 'Export, Convert_Online' function to users.
+  Make sure every function is correctly accomplished and the result of the function is acurate.
+  
+Deploy - 
+  In this process, the application should be deployed to the server, and can be accessed by the users.
+  
